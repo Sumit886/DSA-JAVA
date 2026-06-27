@@ -1,2 +1,2 @@
-# DSA-JAVA
-Daily DSA solutions in JAVA
+# 🚀 DSA in Java
+Welcome to my DSA journey!
